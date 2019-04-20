@@ -7,7 +7,7 @@ output:
     keep_md: yes
 ---
 
-
+(See also my [full blog here](https://wiscostret.wordpress.com/2019/04/20/win-probability-expected-points-and-epa-player-value-in-football/))
 
 **Introduction**
 
